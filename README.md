@@ -18,17 +18,17 @@
 
 ## ⚡ GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ben-slates&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Benjamin's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ben-slates&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ben-slates&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Benjamin's GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ben-slates&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ben-slates&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-slates&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
